@@ -40,7 +40,7 @@ public class Hello {
 
     /* 5. WAP prints the following pattern:
 
-    *********
+    *********.
 
     *********
 
@@ -64,5 +64,5 @@ public class Hello {
 
     One is what we see when we're typing our program. The other is what appears on the "console."
  */
-    
+
 }
